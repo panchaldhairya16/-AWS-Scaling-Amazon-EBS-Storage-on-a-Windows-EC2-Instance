@@ -5,7 +5,6 @@
 ### Expanding a Windows Server root volume from 30 GB ➜ 70 GB with zero downtime and zero data loss
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="120" alt="AWS Logo"/>&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Windows_Server_Logo.svg" width="120" alt="Windows Server Logo"/>
 
 <p>
 A hands-on, end-to-end AWS Cloud Engineering lab that demonstrates how to safely scale Amazon EBS storage<br/>
